@@ -8,6 +8,6 @@ This project is about a blog website using:
 ---
 
 [let's connect on LinkedIn](linkedin.com/in/omarbnassar)
----
+***
 
 [Follow me on Twitter](https://twitter.com/swe_omar?lang=en)
