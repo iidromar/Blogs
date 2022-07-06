@@ -1,7 +1,7 @@
 # Blogs
 This project is about a blog website using:
-*HTML
-*CSS
+1. HTML
+2. CSS
 *JavaScript
 *Bootstrap
 *PHP
