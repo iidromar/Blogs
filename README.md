@@ -19,7 +19,7 @@ The Website contains the following functionalities:
 - sort the blogs according to the category
 - & much more
 
-The webiste have two roles which specifies the view:
+The webiste has two roles which specifies the view:
 - User
 - Admin
 
