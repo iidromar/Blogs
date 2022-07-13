@@ -6,7 +6,7 @@ This project is about a blog website using:
 4. Bootstrap
 5. PHP
 
-It is a requirement project for SWE-381 course according to my Becholar's degree in Software Engineering (King Saud University).
+It is a requirement project for SWE-381 course according to my Becholar's degree in Software Engineering at King Saud University.
 
 The Website contains the following functionalities:
 - Sign In/Sign Up
